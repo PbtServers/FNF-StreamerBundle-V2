@@ -566,7 +566,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Psych Engine by'], 40);
 					#else
-					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
+					createCoolText(['PbtinaDev', 'y', 'los/las', 'Streamers']);
 					#end
 				// credTextShit.visible = true;
 				case 4:
@@ -574,7 +574,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Shadow Mario', 40);
 					addMoreText('Riveren', 40);
 					#else
-					addMoreText('present');
+					addMoreText('Presentan');
 					#end
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
@@ -587,15 +587,15 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Not associated', 'with'], -40);
 					#else
-					createCoolText(['In association', 'with'], -40);
+					createCoolText(['Una Creacion Unica!'], -40);
 					#end
 				case 8:
-					addMoreText('newgrounds', -40);
-					ngSpr.visible = true;
+					addMoreText('Basado en Psych Engine', -40);
+					// ngSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 9:
 					deleteCoolText();
-					ngSpr.visible = false;
+					// ngSpr.visible = false;
 				// credTextShit.visible = false;
 
 				// credTextShit.text = 'Shoutouts Tom Fulp';
@@ -612,13 +612,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('Streamer');
 				// credTextShit.visible = true;
 				case 15:
-					addMoreText('Night');
+					addMoreText('Bundle');
 				// credTextShit.text += '\nNight';
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('V2'); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();
