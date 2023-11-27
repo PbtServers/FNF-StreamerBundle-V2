@@ -44,6 +44,13 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Team de PbtServers'],
+        	['PbtinaDev',		    'pbt',		        'Dev y Creadora de PbtServers',				            'https://pbtservers.com',	                                  'FF0000'],
+        	['Oftome',		        '0ftome101',		'Builder OG de PbtServers y Compositor de Música',	    'https://www.youtube.com/channel/UCdLo7GM8ABn-yzcXUuzy6Ig',	  '4D3CA6'],
+        	['Thiamar',		        'thiamar22omg',		'ElGordas',						                        'https://www.twitch.tv/videos/889404262',                     '86E36F'],
+        	['Lozeer',		        'lozeer55',		    'Apoyo en lo que Hago y Colaboración en Ideas',			'https://www.twitch.tv/lozeer55',	                          'FFFFFF'],
+        	['JuanD',		        'juand',		    'Ser un Tremendo Payaso y Hacerme Reir',			    'https://www.youtube.com/channel/UC_3HmQVsXMxSP4QvC3t9eRw',	  'E36FC0'],
+        	[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['Riveren',				'riveren',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/riverennn',		'B42F71'],
