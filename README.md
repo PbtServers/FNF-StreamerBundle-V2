@@ -1,5 +1,5 @@
-# Friday Night Funkin' - Streamer Bundle (Basado en PsychEngine)
-Conjunto de Canciones de FNF Sobre Clips/Videos de Streamers/Youtubers! (Código Fuente) 
+# Friday Night Funkin' - Streamer Bundle (PsychEngine)
+Conjunto de Canciones de FNF Sobre Clips/Videos de Streamers/Youtubers! (Código Fuente)
 
 ## Installation:
 You must have [Haxe version 4.2.5](https://haxe.org/download/version/4.2.5/), seriously, stop using older or newer versions, it won't work!
