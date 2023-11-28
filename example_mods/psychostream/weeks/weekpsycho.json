@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"psychostream",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "psycho",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dariush habla con xJizzle y Algo Ocurre...",
+	"weekName": "PsychoStream",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Momentazo",
+	"startUnlocked": true
+}
