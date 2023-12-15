@@ -13,12 +13,12 @@
 	ArtistName2 = 'Pbt (Sprites Custom)'
 	ArtistName3 = ''
 
-	MusicianName1 = 'EthanTheDoodler ("Lore Garten of Banban Mix")'
+	MusicianName1 = 'Adam McHummus ("Left Unchecked")'
 	MusicianName2 = 'Pbt (Cover)'
 	MusicianName3 = ''
 
-	CharterName1 = 'EthanTheDoodler (Original)'
-	CharterName2 = 'Pbt (Custom)'
+	CharterName1 = ''
+	CharterName2 = 'Pbt'
 	CharterName3 = ''
 
 

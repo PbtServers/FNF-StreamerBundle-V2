@@ -1,8 +1,8 @@
 function onUpdate()
 
-	if curBeat == 2064 then
+	if curBeat == 28.80 then
 
-		-- idk lol
+		--idk lol
 
 	end
 

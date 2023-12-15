@@ -1,0 +1,336 @@
+{
+	"song": {
+		"events": [
+			[
+				28800,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				28875,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				28950,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				48075,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				48150,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGRaro"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				57675,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				67275,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				67350,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGRaro"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				76875,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				76950,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				86475,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				86550,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGRaro"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				96075,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				96150,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				129675,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				129750,
+				[
+					[
+						"Change Character",
+						"1",
+						"Jesuscarri13PNGCrazy"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				148875,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				148950,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				158400,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				158475,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				158550,
+				[
+					[
+						"Change Character",
+						"1",
+						"Jesuscarri13PNGCrazy"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Image Flash",
+						"white",
+						"1"
+					]
+				]
+			],
+			[
+				168075,
+				[
+					[
+						"Screen Shake",
+						"0.06",
+						"0.03"
+					]
+				]
+			],
+			[
+				168150,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			]
+		]
+	}
+}
