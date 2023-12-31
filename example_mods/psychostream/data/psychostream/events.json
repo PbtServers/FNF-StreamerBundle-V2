@@ -2,7 +2,7 @@
 	"song": {
 		"events": [
 			[
-				28800,
+				9600,
 				[
 					[
 						"Image Flash",
@@ -12,7 +12,27 @@
 				]
 			],
 			[
-				28875,
+				19200,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				38475,
 				[
 					[
 						"Screen Shake",
@@ -22,42 +42,12 @@
 				]
 			],
 			[
-				28950,
+				38550,
 				[
 					[
 						"Change Character",
 						"1",
 						"xJizzlePNGCrazy"
-					]
-				]
-			],
-			[
-				48000,
-				[
-					[
-						"Image Flash",
-						"white",
-						"0.5"
-					]
-				]
-			],
-			[
-				48075,
-				[
-					[
-						"Screen Shake",
-						"0.05",
-						"0.02"
-					]
-				]
-			],
-			[
-				48150,
-				[
-					[
-						"Change Character",
-						"1",
-						"xJizzlePNGRaro"
 					]
 				]
 			],
@@ -87,7 +77,7 @@
 					[
 						"Change Character",
 						"1",
-						"xJizzlePNGCrazy"
+						"xJizzlePNGRaro"
 					]
 				]
 			],
@@ -117,7 +107,7 @@
 					[
 						"Change Character",
 						"1",
-						"xJizzlePNGRaro"
+						"xJizzlePNGCrazy"
 					]
 				]
 			],
@@ -147,7 +137,7 @@
 					[
 						"Change Character",
 						"1",
-						"xJizzlePNGCrazy"
+						"xJizzlePNGRaro"
 					]
 				]
 			],
@@ -177,7 +167,7 @@
 					[
 						"Change Character",
 						"1",
-						"xJizzlePNGRaro"
+						"xJizzlePNGCrazy"
 					]
 				]
 			],
@@ -207,12 +197,12 @@
 					[
 						"Change Character",
 						"1",
-						"xJizzlePNGCrazy"
+						"xJizzlePNGRaro"
 					]
 				]
 			],
 			[
-				129600,
+				105600,
 				[
 					[
 						"Image Flash",
@@ -222,7 +212,7 @@
 				]
 			],
 			[
-				129675,
+				105675,
 				[
 					[
 						"Screen Shake",
@@ -232,37 +222,7 @@
 				]
 			],
 			[
-				129750,
-				[
-					[
-						"Change Character",
-						"1",
-						"Jesuscarri13PNGCrazy"
-					]
-				]
-			],
-			[
-				148800,
-				[
-					[
-						"Image Flash",
-						"white",
-						"0.5"
-					]
-				]
-			],
-			[
-				148875,
-				[
-					[
-						"Screen Shake",
-						"0.05",
-						"0.02"
-					]
-				]
-			],
-			[
-				148950,
+				105750,
 				[
 					[
 						"Change Character",
@@ -272,7 +232,7 @@
 				]
 			],
 			[
-				158400,
+				144000,
 				[
 					[
 						"Image Flash",
@@ -282,7 +242,7 @@
 				]
 			],
 			[
-				158475,
+				144075,
 				[
 					[
 						"Screen Shake",
@@ -292,7 +252,7 @@
 				]
 			],
 			[
-				158550,
+				144150,
 				[
 					[
 						"Change Character",
@@ -302,7 +262,37 @@
 				]
 			],
 			[
-				168000,
+				163200,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.5"
+					]
+				]
+			],
+			[
+				163275,
+				[
+					[
+						"Screen Shake",
+						"0.05",
+						"0.02"
+					]
+				]
+			],
+			[
+				163350,
+				[
+					[
+						"Change Character",
+						"1",
+						"xJizzlePNGCrazy"
+					]
+				]
+			],
+			[
+				172800,
 				[
 					[
 						"Image Flash",
@@ -312,7 +302,7 @@
 				]
 			],
 			[
-				168075,
+				172875,
 				[
 					[
 						"Screen Shake",
@@ -322,7 +312,37 @@
 				]
 			],
 			[
-				168150,
+				172950,
+				[
+					[
+						"Change Character",
+						"1",
+						"Jesuscarri13PNGCrazy"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Image Flash",
+						"white",
+						"1"
+					]
+				]
+			],
+			[
+				180075,
+				[
+					[
+						"Screen Shake",
+						"0.06",
+						"0.03"
+					]
+				]
+			],
+			[
+				180150,
 				[
 					[
 						"Change Character",
