@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"reporterillo",
+			"weekicon",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "illo",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "IlloJuan se Enfrenta al Reddit",
+	"weekName": "ReporterILLO",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "cubica",
+	"startUnlocked": true
+}
