@@ -1,16 +1,89 @@
 {
-	"song": {
-		"events": [
+	"events": [
+		[
+			0,
 			[
-				0,
-				[
-					[
-						"arrowswap",
-						"b",
-						"2"
-					]
-				]
+				["arrowswap", "b", "2"]
+			]
+		],
+		[
+			53714.2857142857,
+			[
+				["Change Character", "1", "bonnierock"]
+			]
+		],
+		[
+			90285.7142857144,
+			[
+				["Change Character", "1", "chica"]
+			]
+		],
+		[
+			108571.428571429,
+			[
+				["Change Character", "1", "gfreddy"]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["Change Character", "0", "JesuscarriPNGStream"]
+			]
+		],
+		[
+			128000,
+			[
+				["Change Character", "0", "xJizzlePNGStream"]
+			]
+		],
+		[
+			137142.857142857,
+			[
+				["Change Character", "0", "JesuscarriPNGStream"]
+			]
+		],
+		[
+			147642.857142857,
+			[
+				["Change Character", "0", "xJizzlePNGStream"]
+			]
+		],
+		[
+			148714.285714286,
+			[
+				["Change Character", "1", "foxy"]
+			]
+		],
+		[
+			166857.142857143,
+			[
+				["Change Character", "0", "JesuscarriPNGStream"]
+			]
+		],
+		[
+			186071.428571428,
+			[
+				["Change Character", "0", "xJizzlePNGStream"]
+			]
+		],
+		[
+			187428.571428571,
+			[
+				["Change Character", "1", "freddy"]
+			]
+		],
+		[
+			227428.571428571,
+			[
+				["Change Character", "0", "IlloJuanPNGStream"]
+			]
+		],
+		[
+			237857.142857142,
+			[
+				["Change Character", "0", "xJizzlePNGStream"]
 			]
 		]
-	}
+	],
+	"format": "psych_v1"
 }

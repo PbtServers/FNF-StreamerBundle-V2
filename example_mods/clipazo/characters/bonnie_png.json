@@ -167,10 +167,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bite/png/bonies",
+	"image": "characters/bonies",
 	"position": [
-		-50,
-		180
+		350,
+		600
 	],
 	"healthicon": "bbonnie",
 	"flip_x": false,
@@ -180,9 +180,9 @@
 		135
 	],
 	"camera_position": [
-		140,
-		130
+		-600,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1.8
+	"scale": 2.5
 }
