@@ -74,13 +74,13 @@ singAnimations = {
 }
 
 characterPos = {
-    1250, -- X of character
+    1600, -- X of character
     600 -- Y of character
 }
 
 characterCamera = {
-    0, -- X (Offset) for the camera to be targetting when it is extra character's turn.
-    0 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
+    1600, -- X (Offset) for the camera to be targetting when it is extra character's turn.
+    600 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
 }
 
 characterScales = {
@@ -113,7 +113,8 @@ function createCharacter(tag)
     end
 
     setProperty(tag .. '.flipX', flipX);
-    setProperty(tag .. '.antialiasing', antialiasing)
+    setProperty(tag .. '.antialiasing', antialiasing);
+	setProperty(tag .. '.alpha', 0);
     scaleObject(tag, characterScales[1], characterScales[2]);
 
     setObjectOrder(tag, objectOrder);

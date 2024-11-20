@@ -79,8 +79,8 @@ characterPos = {
 }
 
 characterCamera = {
-    0, -- X (Offset) for the camera to be targetting when it is extra character's turn.
-    0 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
+    100, -- X (Offset) for the camera to be targetting when it is extra character's turn.
+    700 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
 }
 
 characterScales = {
@@ -113,7 +113,8 @@ function createCharacter(tag)
     end
 
     setProperty(tag .. '.flipX', flipX);
-    setProperty(tag .. '.antialiasing', antialiasing)
+    setProperty(tag .. '.antialiasing', antialiasing);
+	setProperty(tag .. '.alpha', 0);
     scaleObject(tag, characterScales[1], characterScales[2]);
 
     setObjectOrder(tag, objectOrder);
