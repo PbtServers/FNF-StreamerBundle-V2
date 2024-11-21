@@ -6,19 +6,19 @@
 	--Example: CodeName1 = ''
 
 	CoderName1 = 'cramping hell man (Scripts Base)'
-	CoderName2 = 'Pbt'
+	CoderName2 = 'PbtinaDev'
 	CoderName3 = ''
 
 	ArtistName1 = 'cramping hell man (Oficina y Flumpty)'
-	ArtistName2 = 'Pbt (Sprites Custom)'
+	ArtistName2 = 'PbtinaDev (Sprites Custom)'
 	ArtistName3 = ''
 
 	MusicianName1 = 'SmilyBruh (Original "BITE D SIDES")'
-	MusicianName2 = 'Pbt (Cover)'
+	MusicianName2 = 'PbtinaDev (Cover)'
 	MusicianName3 = ''
 
 	CharterName1 = 'cramping hell man (Original)'
-	CharterName2 = 'Pbt (Custom)'
+	CharterName2 = 'PbtinaDev (Custom)'
 	CharterName3 = ''
 
 

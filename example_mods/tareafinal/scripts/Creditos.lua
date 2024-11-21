@@ -5,20 +5,20 @@
 --IF YOU ARE NOT USING CERTAIN NAME SLOTS, JUST LEAVE THEM BLANK 
 	--Example: CodeName1 = ''
 
-	CoderName1 = 'cramping hell man (Scripts Base)'
-	CoderName2 = 'Pbt'
+	CoderName1 = ''
+	CoderName2 = 'PbtinaDev'
 	CoderName3 = ''
 
 	ArtistName1 = ''
-	ArtistName2 = 'Pbt'
+	ArtistName2 = 'PbtinaDev'
 	ArtistName3 = ''
 
-	MusicianName1 = ''
-	MusicianName2 = 'Pbt (Original)'
+	MusicianName1 = 'punkett (Vs. Impostor Victory)'
+	MusicianName2 = 'PbtinaDev (Cover)'
 	MusicianName3 = ''
 
 	CharterName1 = ''
-	CharterName2 = 'Pbt'
+	CharterName2 = 'PbtinaDev'
 	CharterName3 = ''
 
 
