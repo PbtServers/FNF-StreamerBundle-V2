@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OftomePNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OftomePNG-Down0000" x="328" y="0" width="359" height="427" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0001" x="328" y="0" width="359" height="427" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0002" x="328" y="0" width="359" height="427" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0003" x="328" y="0" width="359" height="427" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0004" x="328" y="0" width="359" height="427" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0005" x="328" y="0" width="359" height="427" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0006" x="328" y="0" width="359" height="427" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0007" x="328" y="0" width="359" height="427" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0008" x="284" y="477" width="359" height="303" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Down0009" x="284" y="477" width="359" height="303" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OftomePNG-Idle0000" x="0" y="886" width="184" height="412" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0001" x="0" y="886" width="184" height="412" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0002" x="0" y="886" width="184" height="412" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0003" x="0" y="886" width="184" height="412" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0004" x="0" y="886" width="184" height="412" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0005" x="0" y="886" width="184" height="412" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0006" x="0" y="886" width="184" height="412" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0007" x="0" y="886" width="184" height="412" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0008" x="1239" y="395" width="194" height="422" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Idle0009" x="1239" y="395" width="194" height="422" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OftomePNG-Left0000" x="0" y="0" width="328" height="477" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0001" x="0" y="0" width="328" height="477" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0002" x="0" y="0" width="328" height="477" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0003" x="0" y="0" width="328" height="477" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0004" x="0" y="0" width="328" height="477" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0005" x="0" y="0" width="328" height="477" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0006" x="0" y="0" width="328" height="477" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0007" x="0" y="0" width="328" height="477" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0008" x="687" y="0" width="287" height="476" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Left0009" x="687" y="0" width="287" height="476" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OftomePNG-Right0000" x="0" y="477" width="284" height="409" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0001" x="0" y="477" width="284" height="409" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0002" x="0" y="477" width="284" height="409" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0003" x="0" y="477" width="284" height="409" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0004" x="0" y="477" width="284" height="409" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0005" x="0" y="477" width="284" height="409" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0006" x="0" y="477" width="284" height="409" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0007" x="0" y="477" width="284" height="409" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0008" x="1239" y="0" width="266" height="395" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Right0009" x="1239" y="0" width="266" height="395" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OftomePNG-Up0000" x="974" y="422" width="265" height="308" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0001" x="974" y="422" width="265" height="308" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0002" x="974" y="422" width="265" height="308" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0003" x="974" y="422" width="265" height="308" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0004" x="974" y="422" width="265" height="308" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0005" x="974" y="422" width="265" height="308" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0006" x="974" y="422" width="265" height="308" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0007" x="974" y="422" width="265" height="308" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0008" x="974" y="0" width="265" height="422" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OftomePNG-Up0009" x="974" y="0" width="265" height="422" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>
