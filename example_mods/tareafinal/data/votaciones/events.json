@@ -1,0 +1,29 @@
+{
+	"events": [
+		[
+			8955.22388059702,
+			[
+				["ChangeSecondaryCharacter", "2", "Potato4KPNG2"]
+			]
+		],
+		[
+			23507.4626865672,
+			[
+				["ChangeSecondaryCharacter", "2", "CausPNG2"]
+			]
+		],
+		[
+			116417.910447761,
+			[
+				["Change Character", "0", "ElGordasPNG-Fade"]
+			]
+		],
+		[
+			145970.149253732,
+			[
+				["Change Character", "0", "ElGordasPNG"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
