@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"despertadOR",
+			"despertadOR",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "despertadOR",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "ORmc12 se encuentra al bruno.exe wtf amigo",
+	"weekName": "despertadOR",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Momentazo",
+	"startUnlocked": true
+}
