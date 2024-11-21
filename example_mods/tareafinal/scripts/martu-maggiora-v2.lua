@@ -74,18 +74,18 @@ singAnimations = {
 }
 
 characterPos = {
-    100, -- X of character
-    700 -- Y of character
+    600, -- X of character
+    1100 -- Y of character
 }
 
 characterCamera = {
-    100, -- X (Offset) for the camera to be targetting when it is extra character's turn.
-    700 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
+    600, -- X (Offset) for the camera to be targetting when it is extra character's turn.
+    1100 -- Y (Offset) for the camera to be targetting when it is extra character's turn.
 }
 
 characterScales = {
-    2.5, -- Scale X of character
-    2.5 -- Scale Y of character
+    1.4, -- Scale X of character
+    1.4 -- Scale Y of character
 }
 
 local noteFileCreation = false -- Creates note files incase note files for the character doesn't exist. Won't delete if exiting a song/state.

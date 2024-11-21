@@ -84,8 +84,8 @@ characterCamera = {
 }
 
 characterScales = {
-    2.5, -- Scale X of character
-    2.5 -- Scale Y of character
+    1.4, -- Scale X of character
+    1.4 -- Scale Y of character
 }
 
 local noteFileCreation = false -- Creates note files incase note files for the character doesn't exist. Won't delete if exiting a song/state.

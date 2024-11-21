@@ -1,9 +1,21 @@
 {
 	"events": [
 		[
+			16695.652173913,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
 			59739.1304347826,
 			[
 				["ChangeSecondaryCharacter", "2", "Potato4KPNG2"]
+			]
+		],
+		[
+			60521.7391304348,
+			[
+				["Image Flash", "white", ""]
 			]
 		],
 		[
@@ -16,6 +28,12 @@
 			93391.3043478261,
 			[
 				["ChangeSecondaryCharacter", "2", "MartuMaggioraPNG2"]
+			]
+		],
+		[
+			93913.0434782609,
+			[
+				["Image Flash", "white", ""]
 			]
 		],
 		[
@@ -34,6 +52,12 @@
 			146086.956521739,
 			[
 				["Extr. Teamplay", "0", "0"]
+			]
+		],
+		[
+			171391.304347826,
+			[
+				["Image Flash", "white", ""]
 			]
 		]
 	],
