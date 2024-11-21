@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "ElGordasPNG-Idle",
+			"name": "MartuMaggioraPNG-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ElGordasPNG-Left",
+			"name": "MartuMaggioraPNG-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ElGordasPNG-Down",
+			"name": "MartuMaggioraPNG-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "ElGordasPNG-Up",
+			"name": "MartuMaggioraPNG-Up",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ElGordasPNG-Right",
+			"name": "MartuMaggioraPNG-Right",
 			"indices": []
 		},
 		{
@@ -101,12 +101,12 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/ElGordasPNG",
+	"image": "characters/MartuMaggioraPNG",
 	"position": [
 		0,
-		-800
+		600
 	],
-	"healthicon": "ElGordasPNG",
+	"healthicon": "MartuMaggioraPNG",
 	"flip_x": true,
 	"healthbar_colors": [
 		0,
@@ -114,9 +114,9 @@
 		255
 	],
 	"camera_position": [
-		0,
-		500
+		-300,
+		10
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 0.8
 }

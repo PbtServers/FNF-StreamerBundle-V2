@@ -1,8 +1,8 @@
-characterPath = 'characters/YannisPNG' -- Picture File name of spreadsheet (must have .xml)
-characterTag = 'YannisPNG2' -- Set this to what the sprite should be named.
+characterPath = 'characters/Potato4KPNG' -- Picture File name of spreadsheet (must have .xml)
+characterTag = 'Potato4KPNG2' -- Set this to what the sprite should be named.
 
 noteNames = {
-    'yannispng', -- Change this to whatever your note is named in path "custom_notetypes".
+    'potatopng', -- Change this to whatever your note is named in path "custom_notetypes".
 }
 
 isDanceIdle = true -- If false, character sprite will use animation 'danceLeft' and 'danceRight'
@@ -41,13 +41,13 @@ local precacheImages = true -- Should you precache images from "Extr. Char Chang
 
 --]]
 animationData = {
-    ['idle'] = {'YannisPNG-Idle0', -5, 0, '', false},
+    ['idle'] = {'Potato4KPNG-Idle0', -5, 0, '', false},
     ['idle-alt'] = {'BF idle dance', -5, 0, '', false},
 
-    ['singLEFT'] = {'YannisPNG-Left0', 5, -6, '', false},
-    ['singDOWN'] = {'YannisPNG-Down0', -20, -51, '', false},
-    ['singUP'] = {'YannisPNG-Up0', -46, 27, '', false},
-    ['singRIGHT'] = {'YannisPNG-Right0', -48, -7, '', false},
+    ['singLEFT'] = {'Potato4KPNG-Left0', 5, -6, '', false},
+    ['singDOWN'] = {'Potato4KPNG-Down0', -20, -51, '', false},
+    ['singUP'] = {'Potato4KPNG-Up0', -46, 27, '', false},
+    ['singRIGHT'] = {'Potato4KPNG-Right0', -48, -7, '', false},
 
     ['singLEFT-alt'] = {'BF NOTE LEFT0', -5, -6, '', false},
     ['singDOWN-alt'] = {'BF NOTE DOWN0', -20, -51, '', false},

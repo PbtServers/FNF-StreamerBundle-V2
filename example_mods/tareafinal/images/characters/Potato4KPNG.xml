@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Potato4KPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Potato4KPNG-Down0000" x="0" y="0" width="611" height="528" frameX="0" frameY="0" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0001" x="0" y="0" width="611" height="528" frameX="0" frameY="-7" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0002" x="0" y="0" width="611" height="528" frameX="0" frameY="-15" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0003" x="0" y="0" width="611" height="528" frameX="0" frameY="-23" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0004" x="0" y="0" width="611" height="528" frameX="0" frameY="-31" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0005" x="0" y="0" width="611" height="528" frameX="0" frameY="-39" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0006" x="0" y="0" width="611" height="528" frameX="0" frameY="-47" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0007" x="0" y="0" width="611" height="528" frameX="0" frameY="-55" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0008" x="611" y="0" width="580" height="394" frameX="-16" frameY="-131" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Down0009" x="611" y="0" width="580" height="394" frameX="-16" frameY="-131" frameWidth="612" frameHeight="584"/>
+	<SubTexture name="Potato4KPNG-Idle0000" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-86" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0001" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-81" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0002" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-76" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0003" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-71" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0004" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-66" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0005" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-61" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0006" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-56" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0007" x="1191" y="0" width="611" height="528" frameX="-38" frameY="-51" frameWidth="686" frameHeight="619"/>
+	<SubTexture name="Potato4KPNG-Idle0008" x="1802" y="0" width="686" height="619"/>
+	<SubTexture name="Potato4KPNG-Idle0009" x="1802" y="0" width="686" height="619"/>
+	<SubTexture name="Potato4KPNG-Left0000" x="2488" y="0" width="653" height="528" frameX="-60" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0001" x="2488" y="0" width="653" height="528" frameX="-52" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0002" x="2488" y="0" width="653" height="528" frameX="-43" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0003" x="2488" y="0" width="653" height="528" frameX="-34" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0004" x="2488" y="0" width="653" height="528" frameX="-25" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0005" x="2488" y="0" width="653" height="528" frameX="-16" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0006" x="2488" y="0" width="653" height="528" frameX="-9" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0007" x="2488" y="0" width="653" height="528" frameX="0" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0008" x="3141" y="0" width="611" height="528" frameX="-11" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Left0009" x="3141" y="0" width="611" height="528" frameX="-11" frameY="0" frameWidth="713" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0000" x="0" y="619" width="611" height="528" frameX="0" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0001" x="0" y="619" width="611" height="528" frameX="-8" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0002" x="0" y="619" width="611" height="528" frameX="-16" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0003" x="0" y="619" width="611" height="528" frameX="-24" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0004" x="0" y="619" width="611" height="528" frameX="-32" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0005" x="0" y="619" width="611" height="528" frameX="-40" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0006" x="0" y="619" width="611" height="528" frameX="-48" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0007" x="0" y="619" width="611" height="528" frameX="-56" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0008" x="611" y="619" width="699" height="528" frameX="-20" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Right0009" x="611" y="619" width="699" height="528" frameX="-20" frameY="0" frameWidth="719" frameHeight="528"/>
+	<SubTexture name="Potato4KPNG-Up0000" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-134" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0001" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-127" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0002" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-120" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0003" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-112" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0004" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-105" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0005" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-97" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0006" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-90" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0007" x="1310" y="619" width="611" height="528" frameX="-12" frameY="-83" frameWidth="636" frameHeight="678"/>
+	<SubTexture name="Potato4KPNG-Up0008" x="1921" y="619" width="636" height="678"/>
+	<SubTexture name="Potato4KPNG-Up0009" x="1921" y="619" width="636" height="678"/>
+</TextureAtlas>

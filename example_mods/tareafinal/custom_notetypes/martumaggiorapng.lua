@@ -1,7 +1,7 @@
 function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
-		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'yannispng' then --Check if the note on the chart is a Bullet Note
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'martumaggiorapng' then --Check if the note on the chart is a Bullet Note
 			--setPropertyFromGroup('unspawnNotes', i, 'texture', 'notetexture'); --Change notetexture
 			--setPropertyFromGroup('unspawnNotes', i, 'noteSplashHue', 0);
 			--setPropertyFromGroup('unspawnNotes', i, 'noteSplashSat', -20);

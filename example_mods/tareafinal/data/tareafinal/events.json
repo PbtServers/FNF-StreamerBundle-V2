@@ -1,0 +1,41 @@
+{
+	"events": [
+		[
+			59739.1304347826,
+			[
+				["ChangeSecondaryCharacter", "2", "Potato4KPNG2"]
+			]
+		],
+		[
+			77217.3913043478,
+			[
+				["Extr. Teamplay", "1", "0"]
+			]
+		],
+		[
+			93391.3043478261,
+			[
+				["ChangeSecondaryCharacter", "2", "MartuMaggioraPNG2"]
+			]
+		],
+		[
+			94434.7826086957,
+			[
+				["Extr. Teamplay", "0", "0"]
+			]
+		],
+		[
+			137739.130434783,
+			[
+				["Extr. Teamplay", "1", "0"]
+			]
+		],
+		[
+			146086.956521739,
+			[
+				["Extr. Teamplay", "0", "0"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

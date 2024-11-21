@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "ElGordasPNG-Idle",
+			"name": "Potato4KPNG-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ElGordasPNG-Left",
+			"name": "Potato4KPNG-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ElGordasPNG-Down",
+			"name": "Potato4KPNG-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "ElGordasPNG-Up",
+			"name": "Potato4KPNG-Up",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ElGordasPNG-Right",
+			"name": "Potato4KPNG-Right",
 			"indices": []
 		},
 		{
@@ -101,12 +101,12 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/ElGordasPNG",
+	"image": "characters/Potato4KPNG",
 	"position": [
 		0,
 		-800
 	],
-	"healthicon": "ElGordasPNG",
+	"healthicon": "Potato4KPNG",
 	"flip_x": true,
 	"healthbar_colors": [
 		0,
@@ -115,7 +115,7 @@
 	],
 	"camera_position": [
 		0,
-		500
+		10
 	],
 	"sing_duration": 4,
 	"scale": 2

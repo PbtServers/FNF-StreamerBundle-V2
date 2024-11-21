@@ -1,8 +1,8 @@
-characterPath = 'characters/MasiPNG' -- Picture File name of spreadsheet (must have .xml)
-characterTag = 'MasiPNG2' -- Set this to what the sprite should be named.
+characterPath = 'characters/MartuMaggioraPNG' -- Picture File name of spreadsheet (must have .xml)
+characterTag = 'MartuMaggioraPNG2' -- Set this to what the sprite should be named.
 
 noteNames = {
-    'masipng', -- Change this to whatever your note is named in path "custom_notetypes".
+    'martumaggiorapng', -- Change this to whatever your note is named in path "custom_notetypes".
 }
 
 isDanceIdle = true -- If false, character sprite will use animation 'danceLeft' and 'danceRight'
@@ -41,13 +41,13 @@ local precacheImages = true -- Should you precache images from "Extr. Char Chang
 
 --]]
 animationData = {
-    ['idle'] = {'MasiPNG-Idle0', -5, 0, '', false},
+    ['idle'] = {'MartuMaggioraPNG-Idle0', -5, 0, '', false},
     ['idle-alt'] = {'BF idle dance', -5, 0, '', false},
 
-    ['singLEFT'] = {'MasiPNG-Left0', 5, -6, '', false},
-    ['singDOWN'] = {'MasiPNG-Down0', -20, -51, '', false},
-    ['singUP'] = {'MasiPNG-Up0', -46, 27, '', false},
-    ['singRIGHT'] = {'MasiPNG-Right0', -48, -7, '', false},
+    ['singLEFT'] = {'MartuMaggioraPNG-Left0', 5, -6, '', false},
+    ['singDOWN'] = {'MartuMaggioraPNG-Down0', -20, -51, '', false},
+    ['singUP'] = {'MartuMaggioraPNG-Up0', -46, 27, '', false},
+    ['singRIGHT'] = {'MartuMaggioraPNG-Right0', -48, -7, '', false},
 
     ['singLEFT-alt'] = {'BF NOTE LEFT0', -5, -6, '', false},
     ['singDOWN-alt'] = {'BF NOTE DOWN0', -20, -51, '', false},
