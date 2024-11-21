@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"nochechita",
+			"nochechita",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nochechita",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Kokete se junta con Javier Milei para tomar...",
+	"weekName": "Nochechita",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "cubica",
+	"startUnlocked": true
+}

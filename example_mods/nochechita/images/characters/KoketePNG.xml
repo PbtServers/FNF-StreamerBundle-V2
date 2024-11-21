@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KoketePNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KoketePNG-Down0000" x="0" y="0" width="384" height="380" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0001" x="0" y="0" width="384" height="380" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0002" x="0" y="0" width="384" height="380" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0003" x="0" y="0" width="384" height="380" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0004" x="0" y="0" width="384" height="380" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0005" x="0" y="0" width="384" height="380" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0006" x="0" y="0" width="384" height="380" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0007" x="0" y="0" width="384" height="380" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0008" x="1041" y="0" width="384" height="274" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Down0009" x="1041" y="0" width="384" height="274" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="KoketePNG-Idle0000" x="1041" y="274" width="286" height="351" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0001" x="1041" y="274" width="286" height="351" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0002" x="1041" y="274" width="286" height="351" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0003" x="1041" y="274" width="286" height="351" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0004" x="1041" y="274" width="286" height="351" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0005" x="1041" y="274" width="286" height="351" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0006" x="1041" y="274" width="286" height="351" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0007" x="1041" y="274" width="286" height="351" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0008" x="1041" y="274" width="286" height="351" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Idle0009" x="1041" y="274" width="286" height="351" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="KoketePNG-Left0000" x="384" y="342" width="308" height="322" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0001" x="384" y="342" width="308" height="322" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0002" x="384" y="342" width="308" height="322" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0003" x="384" y="342" width="308" height="322" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0004" x="384" y="342" width="308" height="322" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0005" x="384" y="342" width="308" height="322" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0006" x="384" y="342" width="308" height="322" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0007" x="384" y="342" width="308" height="322" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0008" x="710" y="0" width="331" height="326" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Left0009" x="710" y="0" width="331" height="326" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="KoketePNG-Right0000" x="710" y="326" width="308" height="323" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0001" x="710" y="326" width="308" height="323" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0002" x="710" y="326" width="308" height="323" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0003" x="710" y="326" width="308" height="323" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0004" x="710" y="326" width="308" height="323" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0005" x="710" y="326" width="308" height="323" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0006" x="710" y="326" width="308" height="323" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0007" x="710" y="326" width="308" height="323" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0008" x="384" y="0" width="326" height="342" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Right0009" x="384" y="0" width="326" height="342" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="KoketePNG-Up0000" x="0" y="789" width="282" height="280" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0001" x="0" y="789" width="282" height="280" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0002" x="0" y="789" width="282" height="280" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0003" x="0" y="789" width="282" height="280" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0004" x="0" y="789" width="282" height="280" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0005" x="0" y="789" width="282" height="280" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0006" x="0" y="789" width="282" height="280" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0007" x="0" y="789" width="282" height="280" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0008" x="0" y="380" width="282" height="409" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="KoketePNG-Up0009" x="0" y="380" width="282" height="409" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

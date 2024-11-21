@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JavierMileiPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JavierMileiPNG-Down0000" x="544" y="0" width="250" height="254" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0001" x="544" y="0" width="250" height="254" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0002" x="544" y="0" width="250" height="254" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0003" x="544" y="0" width="250" height="254" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0004" x="544" y="0" width="250" height="254" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0005" x="544" y="0" width="250" height="254" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0006" x="544" y="0" width="250" height="254" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0007" x="544" y="0" width="250" height="254" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0008" x="0" y="630" width="250" height="194" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Down0009" x="0" y="630" width="250" height="194" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="JavierMileiPNG-Idle0000" x="794" y="248" width="212" height="222" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0001" x="794" y="248" width="212" height="222" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0002" x="794" y="248" width="212" height="222" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0003" x="794" y="248" width="212" height="222" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0004" x="794" y="248" width="212" height="222" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0005" x="794" y="248" width="212" height="222" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0006" x="794" y="248" width="212" height="222" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0007" x="794" y="248" width="212" height="222" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0008" x="250" y="630" width="194" height="188" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Idle0009" x="250" y="630" width="194" height="188" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="JavierMileiPNG-Left0000" x="794" y="0" width="225" height="248" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0001" x="794" y="0" width="225" height="248" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0002" x="794" y="0" width="225" height="248" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0003" x="794" y="0" width="225" height="248" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0004" x="794" y="0" width="225" height="248" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0005" x="794" y="0" width="225" height="248" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0006" x="794" y="0" width="225" height="248" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0007" x="794" y="0" width="225" height="248" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0008" x="0" y="374" width="232" height="256" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Left0009" x="0" y="374" width="232" height="256" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="JavierMileiPNG-Right0000" x="464" y="374" width="228" height="250" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0001" x="464" y="374" width="228" height="250" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0002" x="464" y="374" width="228" height="250" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0003" x="464" y="374" width="228" height="250" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0004" x="464" y="374" width="228" height="250" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0005" x="464" y="374" width="228" height="250" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0006" x="464" y="374" width="228" height="250" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0007" x="464" y="374" width="228" height="250" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0008" x="232" y="374" width="232" height="256" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Right0009" x="232" y="374" width="232" height="256" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="JavierMileiPNG-Up0000" x="272" y="0" width="272" height="283" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0001" x="272" y="0" width="272" height="283" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0002" x="272" y="0" width="272" height="283" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0003" x="272" y="0" width="272" height="283" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0004" x="272" y="0" width="272" height="283" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0005" x="272" y="0" width="272" height="283" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0006" x="272" y="0" width="272" height="283" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0007" x="272" y="0" width="272" height="283" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0008" x="0" y="0" width="272" height="374" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="JavierMileiPNG-Up0009" x="0" y="0" width="272" height="374" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

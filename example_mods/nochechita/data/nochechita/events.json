@@ -1,0 +1,17 @@
+{
+	"events": [
+		[
+			9068.18181818182,
+			[
+				["ChangeSecondaryCharacter", "2", "TraficantePNG2"]
+			]
+		],
+		[
+			126613.636363636,
+			[
+				["ChangeSecondaryCharacter", "2", "SnoopDogPNG2"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
