@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"exinfiel",
+			"exinfiel",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "infiel",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "AuronPlay debe enfrentarse al amor amoroso...",
+	"weekName": "ExInfiel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Momentazo",
+	"startUnlocked": true
+}

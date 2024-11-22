@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AuronPlayPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AuronPlayPNG-Down0000" x="0" y="610" width="177" height="165" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0001" x="0" y="610" width="177" height="165" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0002" x="0" y="610" width="177" height="165" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0003" x="0" y="610" width="177" height="165" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0004" x="0" y="610" width="177" height="165" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0005" x="0" y="610" width="177" height="165" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0006" x="0" y="610" width="177" height="165" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0007" x="0" y="610" width="177" height="165" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0008" x="629" y="447" width="177" height="108" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Down0009" x="629" y="447" width="177" height="108" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="AuronPlayPNG-Idle0000" x="0" y="0" width="221" height="285" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0001" x="0" y="0" width="221" height="285" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0002" x="0" y="0" width="221" height="285" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0003" x="0" y="0" width="221" height="285" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0004" x="0" y="0" width="221" height="285" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0005" x="0" y="0" width="221" height="285" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0006" x="0" y="0" width="221" height="285" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0007" x="0" y="0" width="221" height="285" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0008" x="221" y="0" width="195" height="258" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Idle0009" x="221" y="0" width="195" height="258" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="AuronPlayPNG-Left0000" x="629" y="0" width="189" height="217" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0001" x="629" y="0" width="189" height="217" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0002" x="629" y="0" width="189" height="217" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0003" x="629" y="0" width="189" height="217" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0004" x="629" y="0" width="189" height="217" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0005" x="629" y="0" width="189" height="217" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0006" x="629" y="0" width="189" height="217" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0007" x="629" y="0" width="189" height="217" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0008" x="416" y="236" width="211" height="235" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Left0009" x="416" y="236" width="211" height="235" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="AuronPlayPNG-Right0000" x="221" y="258" width="190" height="218" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0001" x="221" y="258" width="190" height="218" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0002" x="221" y="258" width="190" height="218" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0003" x="221" y="258" width="190" height="218" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0004" x="221" y="258" width="190" height="218" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0005" x="221" y="258" width="190" height="218" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0006" x="221" y="258" width="190" height="218" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0007" x="221" y="258" width="190" height="218" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0008" x="416" y="0" width="213" height="236" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Right0009" x="416" y="0" width="213" height="236" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="AuronPlayPNG-Up0000" x="629" y="217" width="168" height="230" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0001" x="629" y="217" width="168" height="230" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0002" x="629" y="217" width="168" height="230" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0003" x="629" y="217" width="168" height="230" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0004" x="629" y="217" width="168" height="230" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0005" x="629" y="217" width="168" height="230" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0006" x="629" y="217" width="168" height="230" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0007" x="629" y="217" width="168" height="230" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0008" x="0" y="285" width="168" height="325" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="AuronPlayPNG-Up0009" x="0" y="285" width="168" height="325" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>
