@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeloxPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeloxPNG-Down0000" x="0" y="723" width="506" height="569" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0001" x="0" y="723" width="506" height="569" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0002" x="0" y="723" width="506" height="569" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0003" x="0" y="723" width="506" height="569" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0004" x="0" y="723" width="506" height="569" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0005" x="0" y="723" width="506" height="569" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0006" x="0" y="723" width="506" height="569" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0007" x="0" y="723" width="506" height="569" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0008" x="1049" y="723" width="506" height="415" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Down0009" x="1049" y="723" width="506" height="415" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="DeloxPNG-Idle0000" x="481" y="0" width="620" height="536" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0001" x="481" y="0" width="620" height="536" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0002" x="481" y="0" width="620" height="536" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0003" x="481" y="0" width="620" height="536" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0004" x="481" y="0" width="620" height="536" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0005" x="481" y="0" width="620" height="536" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0006" x="481" y="0" width="620" height="536" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0007" x="481" y="0" width="620" height="536" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0008" x="506" y="723" width="543" height="482" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Idle0009" x="506" y="723" width="543" height="482" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="DeloxPNG-Left0000" x="1601" y="576" width="446" height="598" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0001" x="1601" y="576" width="446" height="598" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0002" x="1601" y="576" width="446" height="598" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0003" x="1601" y="576" width="446" height="598" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0004" x="1601" y="576" width="446" height="598" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0005" x="1601" y="576" width="446" height="598" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0006" x="1601" y="576" width="446" height="598" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0007" x="1601" y="576" width="446" height="598" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0008" x="1101" y="0" width="500" height="634" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Left0009" x="1101" y="0" width="500" height="634" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="DeloxPNG-Right0000" x="2081" y="0" width="415" height="527" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0001" x="2081" y="0" width="415" height="527" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0002" x="2081" y="0" width="415" height="527" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0003" x="2081" y="0" width="415" height="527" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0004" x="2081" y="0" width="415" height="527" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0005" x="2081" y="0" width="415" height="527" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0006" x="2081" y="0" width="415" height="527" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0007" x="2081" y="0" width="415" height="527" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0008" x="1601" y="0" width="480" height="576" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Right0009" x="1601" y="0" width="480" height="576" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="DeloxPNG-Up0000" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0001" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0002" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0003" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0004" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0005" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0006" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0007" x="0" y="1292" width="481" height="512" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0008" x="0" y="0" width="481" height="723" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="DeloxPNG-Up0009" x="0" y="0" width="481" height="723" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

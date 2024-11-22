@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RickyEditPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RickyEditPNG-Down0000" x="406" y="478" width="319" height="315" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0001" x="406" y="478" width="319" height="315" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0002" x="406" y="478" width="319" height="315" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0003" x="406" y="478" width="319" height="315" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0004" x="406" y="478" width="319" height="315" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0005" x="406" y="478" width="319" height="315" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0006" x="406" y="478" width="319" height="315" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0007" x="406" y="478" width="319" height="315" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0008" x="725" y="478" width="319" height="232" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Down0009" x="725" y="478" width="319" height="232" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="RickyEditPNG-Idle0000" x="0" y="0" width="346" height="478" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0001" x="0" y="0" width="346" height="478" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0002" x="0" y="0" width="346" height="478" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0003" x="0" y="0" width="346" height="478" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0004" x="0" y="0" width="346" height="478" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0005" x="0" y="0" width="346" height="478" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0006" x="0" y="0" width="346" height="478" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0007" x="0" y="0" width="346" height="478" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0008" x="1047" y="367" width="307" height="415" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Idle0009" x="1047" y="367" width="307" height="415" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="RickyEditPNG-Left0000" x="346" y="0" width="359" height="415" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0001" x="346" y="0" width="359" height="415" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0002" x="346" y="0" width="359" height="415" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0003" x="346" y="0" width="359" height="415" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0004" x="346" y="0" width="359" height="415" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0005" x="346" y="0" width="359" height="415" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0006" x="346" y="0" width="359" height="415" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0007" x="346" y="0" width="359" height="415" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0008" x="705" y="0" width="342" height="427" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Left0009" x="705" y="0" width="342" height="427" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="RickyEditPNG-Right0000" x="1047" y="0" width="381" height="367" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0001" x="1047" y="0" width="381" height="367" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0002" x="1047" y="0" width="381" height="367" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0003" x="1047" y="0" width="381" height="367" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0004" x="1047" y="0" width="381" height="367" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0005" x="1047" y="0" width="381" height="367" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0006" x="1047" y="0" width="381" height="367" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0007" x="1047" y="0" width="381" height="367" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0008" x="0" y="478" width="406" height="358" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Right0009" x="0" y="478" width="406" height="358" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="RickyEditPNG-Up0000" x="204" y="836" width="204" height="362" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0001" x="204" y="836" width="204" height="362" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0002" x="204" y="836" width="204" height="362" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0003" x="204" y="836" width="204" height="362" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0004" x="204" y="836" width="204" height="362" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0005" x="204" y="836" width="204" height="362" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0006" x="204" y="836" width="204" height="362" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0007" x="204" y="836" width="204" height="362" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0008" x="0" y="836" width="204" height="489" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="RickyEditPNG-Up0009" x="0" y="836" width="204" height="489" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

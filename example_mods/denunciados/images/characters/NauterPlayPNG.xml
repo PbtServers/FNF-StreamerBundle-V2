@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NauterPlayPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NauterPlayPNG-Down0000" x="436" y="0" width="247" height="228" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0001" x="436" y="0" width="247" height="228" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0002" x="436" y="0" width="247" height="228" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0003" x="436" y="0" width="247" height="228" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0004" x="436" y="0" width="247" height="228" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0005" x="436" y="0" width="247" height="228" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0006" x="436" y="0" width="247" height="228" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0007" x="436" y="0" width="247" height="228" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0008" x="220" y="581" width="247" height="168" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Down0009" x="220" y="581" width="247" height="168" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="NauterPlayPNG-Idle0000" x="231" y="0" width="205" height="303" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0001" x="231" y="0" width="205" height="303" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0002" x="231" y="0" width="205" height="303" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0003" x="231" y="0" width="205" height="303" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0004" x="231" y="0" width="205" height="303" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0005" x="231" y="0" width="205" height="303" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0006" x="231" y="0" width="205" height="303" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0007" x="231" y="0" width="205" height="303" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0008" x="683" y="240" width="179" height="259" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Idle0009" x="683" y="240" width="179" height="259" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="NauterPlayPNG-Left0000" x="683" y="0" width="216" height="240" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0001" x="683" y="0" width="216" height="240" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0002" x="683" y="0" width="216" height="240" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0003" x="683" y="0" width="216" height="240" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0004" x="683" y="0" width="216" height="240" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0005" x="683" y="0" width="216" height="240" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0006" x="683" y="0" width="216" height="240" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0007" x="683" y="0" width="216" height="240" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0008" x="0" y="321" width="214" height="260" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Left0009" x="0" y="321" width="214" height="260" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="NauterPlayPNG-Right0000" x="0" y="581" width="220" height="235" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0001" x="0" y="581" width="220" height="235" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0002" x="0" y="581" width="220" height="235" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0003" x="0" y="581" width="220" height="235" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0004" x="0" y="581" width="220" height="235" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0005" x="0" y="581" width="220" height="235" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0006" x="0" y="581" width="220" height="235" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0007" x="0" y="581" width="220" height="235" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0008" x="214" y="321" width="221" height="249" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Right0009" x="214" y="321" width="221" height="249" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="NauterPlayPNG-Up0000" x="435" y="321" width="231" height="236" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0001" x="435" y="321" width="231" height="236" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0002" x="435" y="321" width="231" height="236" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0003" x="435" y="321" width="231" height="236" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0004" x="435" y="321" width="231" height="236" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0005" x="435" y="321" width="231" height="236" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0006" x="435" y="321" width="231" height="236" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0007" x="435" y="321" width="231" height="236" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0008" x="0" y="0" width="231" height="321" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="NauterPlayPNG-Up0009" x="0" y="0" width="231" height="321" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

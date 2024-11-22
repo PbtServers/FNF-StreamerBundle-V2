@@ -1,0 +1,155 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			18285.7142857143,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			36571.4285714286,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			54428.5714285714,
+			[
+				["Change Character", "1", "JaviOliveiraPNG"]
+			]
+		],
+		[
+			54857.1428571429,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			73142.8571428572,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			73428.5714285715,
+			[
+				["Change Character", "1", "JaviOliveiraRockPNG"]
+			]
+		],
+		[
+			91428.5714285715,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			109285.714285714,
+			[
+				["Change Character", "1", "JaviOliveiraPNG"]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			118857.142857143,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			128000,
+			[
+				["Change Character", "1", "DalasReviewPNG"]
+			]
+		],
+		[
+			128071.428571429,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			146285.714285714,
+			[
+				["Change Character", "1", "DeloxPNG"]
+			]
+		],
+		[
+			146357.142857143,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			164571.428571428,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			178285.714285714,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			185142.857142857,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			185285.714285714,
+			[
+				["Change Character", "1", "CellPNG"]
+			]
+		],
+		[
+			217142.857142856,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			223999.999999999,
+			[
+				["Change Character", "1", "NauterPlayPNG"]
+			]
+		],
+		[
+			224071.428571428,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			260571.428571427,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			278857.142857142,
+			[
+				["Image Flash", "white", ""]
+			]
+		],
+		[
+			278928.57142857,
+			[
+				["Change Character", "1", "DalasReviewPNG"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

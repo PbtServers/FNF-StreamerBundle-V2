@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CellPNG.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CellPNG-Down0000" x="767" y="0" width="232" height="235" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0001" x="767" y="0" width="232" height="235" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0002" x="767" y="0" width="232" height="235" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0003" x="767" y="0" width="232" height="235" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0004" x="767" y="0" width="232" height="235" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0005" x="767" y="0" width="232" height="235" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0006" x="767" y="0" width="232" height="235" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0007" x="767" y="0" width="232" height="235" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0008" x="230" y="619" width="232" height="162" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Down0009" x="230" y="619" width="232" height="162" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="CellPNG-Idle0000" x="0" y="0" width="264" height="276" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0001" x="0" y="0" width="264" height="276" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0002" x="0" y="0" width="264" height="276" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0003" x="0" y="0" width="264" height="276" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0004" x="0" y="0" width="264" height="276" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0005" x="0" y="0" width="264" height="276" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0006" x="0" y="0" width="264" height="276" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0007" x="0" y="0" width="264" height="276" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0008" x="0" y="619" width="230" height="215" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Idle0009" x="0" y="619" width="230" height="215" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="CellPNG-Left0000" x="523" y="0" width="244" height="268" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0001" x="523" y="0" width="244" height="268" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0002" x="523" y="0" width="244" height="268" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0003" x="523" y="0" width="244" height="268" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0004" x="523" y="0" width="244" height="268" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0005" x="523" y="0" width="244" height="268" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0006" x="523" y="0" width="244" height="268" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0007" x="523" y="0" width="244" height="268" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0008" x="264" y="0" width="259" height="276" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Left0009" x="264" y="0" width="259" height="276" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="CellPNG-Right0000" x="204" y="276" width="260" height="254" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0001" x="204" y="276" width="260" height="254" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0002" x="204" y="276" width="260" height="254" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0003" x="204" y="276" width="260" height="254" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0004" x="204" y="276" width="260" height="254" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0005" x="204" y="276" width="260" height="254" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0006" x="204" y="276" width="260" height="254" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0007" x="204" y="276" width="260" height="254" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0008" x="523" y="268" width="236" height="267" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Right0009" x="523" y="268" width="236" height="267" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="CellPNG-Up0000" x="767" y="235" width="204" height="250" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0001" x="767" y="235" width="204" height="250" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0002" x="767" y="235" width="204" height="250" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0003" x="767" y="235" width="204" height="250" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0004" x="767" y="235" width="204" height="250" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0005" x="767" y="235" width="204" height="250" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0006" x="767" y="235" width="204" height="250" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0007" x="767" y="235" width="204" height="250" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0008" x="0" y="276" width="204" height="343" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="CellPNG-Up0009" x="0" y="276" width="204" height="343" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>
