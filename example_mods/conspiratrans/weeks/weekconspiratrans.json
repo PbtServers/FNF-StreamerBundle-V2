@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"conspiratrans",
+			"conspiratrans",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "conspiratrans",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Mia Skylar debe enfrentarse al debate TRANS...",
+	"weekName": "ConspiraTrans",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Momentazo",
+	"startUnlocked": true
+}
