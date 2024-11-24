@@ -14,8 +14,8 @@
 	ArtistName3 = ''
 
 	MusicianName1 = 'EthanTheDoodler ("Lore Garten of Banban Mix")'
-	MusicianName2 = 'PbtinaDev (Cover)'
-	MusicianName3 = ''
+	MusicianName2 = 'Call ("Live CCore Mix")'
+	MusicianName3 = 'PbtinaDev (Cover)'
 
 	CharterName1 = 'EthanTheDoodler (Original)'
 	CharterName2 = 'PbtinaDev (Custom)'

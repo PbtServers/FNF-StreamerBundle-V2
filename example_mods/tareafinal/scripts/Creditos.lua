@@ -14,8 +14,8 @@
 	ArtistName3 = ''
 
 	MusicianName1 = 'punkett (Vs. Impostor Victory)'
-	MusicianName2 = 'PbtinaDev (Cover)'
-	MusicianName3 = ''
+	MusicianName2 = 'punkett (Vs. Impostor Voting Time)'
+	MusicianName3 = 'PbtinaDev (Cover)'
 
 	CharterName1 = ''
 	CharterName2 = 'PbtinaDev'

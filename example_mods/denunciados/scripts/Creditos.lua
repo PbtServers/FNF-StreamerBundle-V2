@@ -13,12 +13,12 @@
 	ArtistName2 = 'PbtinaDev (Sprites Custom)'
 	ArtistName3 = ''
 
-	MusicianName1 = 'EthanTheDoodler ("Lore Garten of Banban Mix")'
+	MusicianName1 = 'jared ("BITE BUT ITS AO ONI")'
 	MusicianName2 = 'PbtinaDev (Cover)'
 	MusicianName3 = ''
 
-	CharterName1 = 'EthanTheDoodler (Original)'
-	CharterName2 = 'PbtinaDev (Custom)'
+	CharterName1 = ''
+	CharterName2 = 'PbtinaDev'
 	CharterName3 = ''
 
 

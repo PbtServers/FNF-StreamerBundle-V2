@@ -13,8 +13,8 @@
 	ArtistName2 = 'PbtinaDev'
 	ArtistName3 = ''
 
-	MusicianName1 = ''
-	MusicianName2 = 'PbtinaDev (Original)'
+	MusicianName1 = 'WeedMateOfficial ("Parodie v2")'
+	MusicianName2 = 'PbtinaDev (Cover)'
 	MusicianName3 = ''
 
 	CharterName1 = ''
