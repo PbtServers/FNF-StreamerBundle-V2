@@ -14,8 +14,8 @@
 	ArtistName3 = ''
 
 	MusicianName1 = 'blackberri ("Ourple Guy Followed v2")'
-	MusicianName2 = 'PbtinaDev (Cover)'
-	MusicianName3 = ''
+	MusicianName2 = 'Ourple Guy ("Blubber v3")'
+	MusicianName3 = 'PbtinaDev (Cover)'
 
 	CharterName1 = 'Ourple Guy ("Followed v2")'
 	CharterName2 = 'PbtinaDev (Custom)'
