@@ -3393,6 +3393,6 @@
 	"needsVoices": true,
 	"validScore": true,
 	"format": "psych_v1_convert",
-	"speed": 3.0,
+	"speed": 2.0,
 	"bpm": 235
 }

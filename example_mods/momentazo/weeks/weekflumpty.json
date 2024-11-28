@@ -13,7 +13,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "flumpty",
-	"difficulties": "Hard",
+	"difficulties": "Hard, Normal",
 	"weekCharacters": [
 		"",
 		"",

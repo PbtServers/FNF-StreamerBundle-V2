@@ -3111,7 +3111,7 @@
 		"stage": "illostage",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 2.8,
+		"speed": 2.0,
 		"bpm": 175
 	}
 }
